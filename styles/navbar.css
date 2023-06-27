@@ -1,0 +1,15 @@
+html {
+    background-color: red;
+}
+
+.container {
+    height: 100px;
+    padding: 0px 50px;
+    background-color: rgb(237, 69, 60);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top:0;
+    z-index: 999;
+}
